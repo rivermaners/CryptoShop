@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bitcoin {
+public class CryptoShop {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         MyDate date = new MyDate();
